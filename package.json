@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "masterPortfolio",
+  "name": "QAPortfolio",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://junior0123.github.io/QAPortfolio",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
