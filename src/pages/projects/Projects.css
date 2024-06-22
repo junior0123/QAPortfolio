@@ -55,6 +55,7 @@
   margin-right: 20px;
   font-family: "Google Sans Medium";
 }
+
 .publications-heading-text-div {
   text-align: center;
   font-family: "Google Sans Regular";
@@ -65,6 +66,7 @@
   font-size: 56px;
   font-weight: 600;
 }
+
 .repo-cards-div-main {
   display: flex;
   flex-direction: row;
@@ -80,6 +82,7 @@
     font-size: 50px;
     margin-top: 80px;
   }
+
   .projects-heading-sub-text {
     font-size: 25px;
   }
@@ -113,5 +116,56 @@
     margin-left: 10px;
     margin-right: 10px;
     margin-top: 30px;
+  }
+
+  .repo-cards-div-main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+  .custom-repo-card {
+    flex: 1 1 300px;
+    /* Flex-grow, flex-shrink, flex-basis */
+    max-width: 300px;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .custom-repo-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+
+  .custom-repo-card h1 {
+    font-size: 1.2em;
+    margin: 10px 0;
+    text-align: center;
+  }
+
+  .custom-repo-card p {
+    font-size: 1em;
+    text-align: center;
+  }
+
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    white-space: nowrap;
+    width: 150px;
+    height: 50px;
+    line-height: 30px;
   }
 }
