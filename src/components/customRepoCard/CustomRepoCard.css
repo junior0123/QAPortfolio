@@ -1,0 +1,70 @@
+/* src/components/customRepoCard/CustomRepoCard.css */
+
+.repo-cards-div-main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px; /* Espacio entre las tarjetas */
+  padding: 20px;
+}
+
+.custom-repo-card {
+  flex: 1 1 300px; /* Flex-grow, flex-shrink, flex-basis */
+  max-width: 300px;
+  margin: 10px; /* Margen reducido */
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: transform 0.2s; /* Animación suave al hacer hover */
+}
+
+.custom-repo-card:hover {
+  transform: scale(1.05); /* Efecto de zoom suave al hacer hover */
+}
+
+.custom-repo-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+.custom-repo-card h1 {
+  font-size: 1.2em;
+  margin: 10px 0;
+  text-align: center;
+}
+
+.custom-repo-card p {
+  font-size: 1em;
+  text-align: center;
+}
+
+.button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+  white-space: nowrap;
+  width: 150px;
+  height: 50px;
+  line-height: 30px;
+}
+
+@media (max-width: 768px) {
+  .repo-cards-div-main {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .custom-repo-card {
+    max-width: 90%;
+    margin: 10px 0;
+  }
+}
