@@ -27,7 +27,7 @@ const greeting = {
   subTitle:
     "A passionate QA Manual and Automation Specialist 🚀 with experience in ensuring the highest quality for web and mobile applications. Adept at utilizing a variety of frameworks such as Selenium, Appium, Cypress, and Playwright to create robust automated test suites",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+    "https://drive.google.com/file/d/18yiRCZQXE1X3XfkThf56RUbWOHvYf6wU/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/junior0123",
 };
