@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/QAPortfolio/static/css/main.dce26acd.chunk.css",
-    "main.js": "/QAPortfolio/static/js/main.b898819d.chunk.js",
-    "main.js.map": "/QAPortfolio/static/js/main.b898819d.chunk.js.map",
+    "main.js": "/QAPortfolio/static/js/main.0738e3c7.chunk.js",
+    "main.js.map": "/QAPortfolio/static/js/main.0738e3c7.chunk.js.map",
     "runtime-main.js": "/QAPortfolio/static/js/runtime-main.81c626dd.js",
     "runtime-main.js.map": "/QAPortfolio/static/js/runtime-main.81c626dd.js.map",
-    "static/js/2.d278cf02.chunk.js": "/QAPortfolio/static/js/2.d278cf02.chunk.js",
-    "static/js/2.d278cf02.chunk.js.map": "/QAPortfolio/static/js/2.d278cf02.chunk.js.map",
+    "static/js/2.644ca78a.chunk.js": "/QAPortfolio/static/js/2.644ca78a.chunk.js",
+    "static/js/2.644ca78a.chunk.js.map": "/QAPortfolio/static/js/2.644ca78a.chunk.js.map",
     "index.html": "/QAPortfolio/index.html",
-    "precache-manifest.b4db52768d5fd06678c7673a8fd8667d.js": "/QAPortfolio/precache-manifest.b4db52768d5fd06678c7673a8fd8667d.js",
+    "precache-manifest.26043e1bab6fc845e0eabd1fe68efeca.js": "/QAPortfolio/precache-manifest.26043e1bab6fc845e0eabd1fe68efeca.js",
     "service-worker.js": "/QAPortfolio/service-worker.js",
     "static/css/main.dce26acd.chunk.css.map": "/QAPortfolio/static/css/main.dce26acd.chunk.css.map",
     "static/media/1.jpg": "/QAPortfolio/static/media/1.5d9aa6b0.jpg",
@@ -16,6 +16,8 @@
     "static/media/1.png": "/QAPortfolio/static/media/1.e20c823f.png",
     "static/media/6sigma.png": "/QAPortfolio/static/media/6sigma.22358409.png",
     "static/media/index.css": "/QAPortfolio/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Platzi.png": "/QAPortfolio/static/media/Platzi.27b83630.png",
+    "static/media/Platzi1.png": "/QAPortfolio/static/media/Platzi1.c80843ca.png",
     "static/media/Udemy.png": "/QAPortfolio/static/media/Udemy.e758c53f.png",
     "static/media/address_image.svg": "/QAPortfolio/static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "/QAPortfolio/static/media/animated_ashutosh.eaf02c2d.png",
@@ -71,8 +73,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.81c626dd.js",
-    "static/js/2.d278cf02.chunk.js",
+    "static/js/2.644ca78a.chunk.js",
     "static/css/main.dce26acd.chunk.css",
-    "static/js/main.b898819d.chunk.js"
+    "static/js/main.0738e3c7.chunk.js"
   ]
 }
