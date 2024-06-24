@@ -417,22 +417,39 @@ const certifications = {
       color_code: "#d8e3ec",
     },
     {
-      title: "Six Sigma Yellow Belt (SSYB)",
-      subtitle:
-        "6sigmastudy - Global Accreditation Body for Six Sigma Certifications",
-      logo_path: "6sigma.png",
+      title: "Curso Avanzado de Automatización de Pruebas con Puppeteer",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
       certificate_link:
-        "https://www.6sigmastudy.com/certification/verify?type=SSYB&number=890883",
-      alt_name: "Six Sigma Yellow Belt (SSYB)",
-      color_code: "#e9f0f8",
+        "https://platzi.com/p/alvarogerardojunior98/curso/2706-puppeteer-avanzado/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
     },
     {
-      title: "SQL - Curso completo de Bases de Datos - de 0 a Avanzado",
-      subtitle: "Udemy",
-      logo_path: "Udemy.png",
+      title: "Curso de Automatización de Pruebas UI con Cypress",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
       certificate_link:
-        "https://www.udemy.com/certificate/UC-03fdbc4e-56ed-4697-9bac-b2c3d097c722/",
-      alt_name: "Udemy",
+        "https://platzi.com/p/alvarogerardojunior98/curso/3075-cypress-ui/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Curso de Automatización de Pruebas con Puppeteer",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/2703-course/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Curso de Automatización de Pruebas de Backend con Cypress",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/3076-cypress-backend/diploma/detalle/",
+      alt_name: "Platzi Certification",
       color_code: "#ffffff",
     },
     {
@@ -471,6 +488,143 @@ const certifications = {
       alt_name: "Código Facilito",
       color_code: "#ace6db",
     },
+    {
+      title: "Curso de Automatización de Test con Playwright",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/5679-playwright/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Curso de Cypress Avanzado",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/4760-course/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Curso de Fundamentos de Pruebas de Software",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/1421-pruebas-software/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Curso de Fundamentos de Python",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/4227-python-fundamentos/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Curso de Introducción a la Automatización de Pruebas",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/2620-automatizacion-pruebas/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Curso de Introducción a la Terminal y Línea de Comandos",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/2292-terminal/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Curso de Introducción al Testing con JavaScript",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/2920-javascript-testing/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Curso de Java SE Orientado a Objetos",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/1629-java-oop/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Curso de Java SE: SQL y Bases de Datos",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/8048-java-sql/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Six Sigma Yellow Belt (SSYB)",
+      subtitle:
+        "6sigmastudy - Global Accreditation Body for Six Sigma Certifications",
+      logo_path: "6sigma.png",
+      certificate_link:
+        "https://www.6sigmastudy.com/certification/verify?type=SSYB&number=890883",
+      alt_name: "Six Sigma Yellow Belt (SSYB)",
+      color_code: "#e9f0f8",
+    },
+    {
+      title: "SQL - Curso completo de Bases de Datos - de 0 a Avanzado",
+      subtitle: "Udemy",
+      logo_path: "Udemy.png",
+      certificate_link:
+        "https://www.udemy.com/certificate/UC-03fdbc4e-56ed-4697-9bac-b2c3d097c722/",
+      alt_name: "Udemy",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Curso de Java Spring",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/1996-java-spring/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Curso de Java Spring Data JPA: Bases de Datos",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/7825-java-spring-data/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/3578-npm/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Curso de Testing de Videojuegos",
+      subtitle: "Platzi",
+      logo_path: "Platzi1.png",
+      certificate_link:
+        "https://platzi.com/p/alvarogerardojunior98/curso/1349-testing-videojuegos/diploma/detalle/",
+      alt_name: "Platzi Certification",
+      color_code: "#ffffff",
+    },
+
     {
       title: "Todo sobre Notion. Organiza tu trabajo y se mas Productivo",
       subtitle: "Udemy",
