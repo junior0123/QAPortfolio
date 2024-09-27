@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/QAPortfolio/static/css/main.dce26acd.chunk.css",
-    "main.js": "/QAPortfolio/static/js/main.a078658e.chunk.js",
-    "main.js.map": "/QAPortfolio/static/js/main.a078658e.chunk.js.map",
+    "main.js": "/QAPortfolio/static/js/main.f3b14b2a.chunk.js",
+    "main.js.map": "/QAPortfolio/static/js/main.f3b14b2a.chunk.js.map",
     "runtime-main.js": "/QAPortfolio/static/js/runtime-main.81c626dd.js",
     "runtime-main.js.map": "/QAPortfolio/static/js/runtime-main.81c626dd.js.map",
-    "static/js/2.644ca78a.chunk.js": "/QAPortfolio/static/js/2.644ca78a.chunk.js",
-    "static/js/2.644ca78a.chunk.js.map": "/QAPortfolio/static/js/2.644ca78a.chunk.js.map",
+    "static/js/2.99b691f7.chunk.js": "/QAPortfolio/static/js/2.99b691f7.chunk.js",
+    "static/js/2.99b691f7.chunk.js.map": "/QAPortfolio/static/js/2.99b691f7.chunk.js.map",
     "index.html": "/QAPortfolio/index.html",
-    "precache-manifest.c3c73308ffc6cb2fbed95e50bae1cab8.js": "/QAPortfolio/precache-manifest.c3c73308ffc6cb2fbed95e50bae1cab8.js",
+    "precache-manifest.0318d5fd61e41f1c09b5a5f18025ed78.js": "/QAPortfolio/precache-manifest.0318d5fd61e41f1c09b5a5f18025ed78.js",
     "service-worker.js": "/QAPortfolio/service-worker.js",
     "static/css/main.dce26acd.chunk.css.map": "/QAPortfolio/static/css/main.dce26acd.chunk.css.map",
     "static/media/1.jpg": "/QAPortfolio/static/media/1.5d9aa6b0.jpg",
@@ -64,17 +64,19 @@
     "static/media/stanford_logo.png": "/QAPortfolio/static/media/stanford_logo.2c497738.png",
     "static/media/talksCardBack.svg": "/QAPortfolio/static/media/talksCardBack.6ac91b16.svg",
     "static/media/talksCardBackAlt.svg": "/QAPortfolio/static/media/talksCardBackAlt.3fa54242.svg",
+    "static/media/testerwork.png": "/QAPortfolio/static/media/testerwork.a4c7f951.png",
     "static/media/tiktok_logo.png": "/QAPortfolio/static/media/tiktok_logo.0993e324.png",
     "static/media/udemy.webp": "/QAPortfolio/static/media/udemy.7ad40d4e.webp",
     "static/media/ui_ux_design.svg": "/QAPortfolio/static/media/ui_ux_design.d6363089.svg",
     "static/media/umss.png": "/QAPortfolio/static/media/umss.2a55c465.png",
     "static/media/umsslogo.png": "/QAPortfolio/static/media/umsslogo.b4e0841c.png",
-    "static/media/upwork.png": "/QAPortfolio/static/media/upwork.27949bd1.png"
+    "static/media/upwork.png": "/QAPortfolio/static/media/upwork.27949bd1.png",
+    "static/media/utest.png": "/QAPortfolio/static/media/utest.9cece2cf.png"
   },
   "entrypoints": [
     "static/js/runtime-main.81c626dd.js",
-    "static/js/2.644ca78a.chunk.js",
+    "static/js/2.99b691f7.chunk.js",
     "static/css/main.dce26acd.chunk.css",
-    "static/js/main.a078658e.chunk.js"
+    "static/js/main.f3b14b2a.chunk.js"
   ]
 }

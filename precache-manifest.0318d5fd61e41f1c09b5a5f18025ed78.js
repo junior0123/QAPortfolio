@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c296db28b3c21409627666b702f2e63",
+    "revision": "170f8d0a4a8b7ad50b91471a8271fbf5",
     "url": "/QAPortfolio/index.html"
   },
   {
-    "revision": "f13575e4c6c1d7bca291",
+    "revision": "edc9804d98f4b7e81506",
     "url": "/QAPortfolio/static/css/main.dce26acd.chunk.css"
   },
   {
-    "revision": "7860fb4b056d67807070",
-    "url": "/QAPortfolio/static/js/2.644ca78a.chunk.js"
+    "revision": "9f03eeb406cb851d0716",
+    "url": "/QAPortfolio/static/js/2.99b691f7.chunk.js"
   },
   {
-    "revision": "f13575e4c6c1d7bca291",
-    "url": "/QAPortfolio/static/js/main.a078658e.chunk.js"
+    "revision": "edc9804d98f4b7e81506",
+    "url": "/QAPortfolio/static/js/main.f3b14b2a.chunk.js"
   },
   {
     "revision": "2c738511514401002f13",
@@ -316,6 +316,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/QAPortfolio/static/media/talksCardBackAlt.3fa54242.svg"
   },
   {
+    "revision": "a4c7f9513646720bb40c906760edfe13",
+    "url": "/QAPortfolio/static/media/testerwork.a4c7f951.png"
+  },
+  {
     "revision": "0993e3246bf5146154391a0afef79b03",
     "url": "/QAPortfolio/static/media/tiktok_logo.0993e324.png"
   },
@@ -338,5 +342,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "27949bd163017a5b59747372c2d99d25",
     "url": "/QAPortfolio/static/media/upwork.27949bd1.png"
+  },
+  {
+    "revision": "9cece2cf450e3e1b4acc08b7e1ce4cb1",
+    "url": "/QAPortfolio/static/media/utest.9cece2cf.png"
   }
 ]);
