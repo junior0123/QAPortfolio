@@ -21,14 +21,14 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Alvaro Sivila",
+  title: "Alvaro Sivila Ramirez",
   logo_name: "Alvaro Sivila",
   //nickname: "layman_brother",
   subTitle:
     "A passionate QA Manual and Automation Specialist 🚀 with experience in ensuring the highest quality for web and mobile applications. Adept at utilizing a variety of frameworks such as Selenium, Appium, Cypress, and Playwright to create robust automated test suites",
   resumeLink:
-    "https://drive.google.com/file/d/18yiRCZQXE1X3XfkThf56RUbWOHvYf6wU/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "https://drive.google.com/file/d/1RS_P9LXNGUJy7NbF2XimWbb63ibUGaE-/view?usp=drive_link",
+  portfolio_repository: "https://github.com/junior0123",
   githubProfile: "https://github.com/junior0123",
 };
 
@@ -213,9 +213,10 @@ const skills = {
       title: "Backend Developer",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Proficient in developing RESTful APIs using Spring Boot",
+        "⚡ Proficient in developing RESTful APIs using Spring Boot and Express",
         "⚡ Experienced in using JPA and Hibernate for database interactions",
         "⚡ Skilled in building scalable and maintainable backend systems",
+        "⚡ Skilled in building scalable and maintainable Mobile applications using flutter",
       ],
       softwareSkills: [
         {
@@ -372,7 +373,7 @@ const degrees = {
       subtitle: "Software Automation Testing Specialization",
       logo_path: "jalau.png",
       alt_name: "Jala University",
-      duration: "August 2022 - June 2023",
+      duration: "August 2022 - March 2023",
       descriptions: [
         "As a top student in the program, I participated in creating test plans and led project teams, completing the specialization with a focus on advanced automation techniques",
         "⚡ I reported software bugs, ensuring product quality.",
@@ -687,7 +688,7 @@ const experience = {
   title: "Experience",
   //subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with a diverse range of clients through Upwork as a Freelance Developer, focusing on ensuring the quality and reliability of their software projects. My expertise lies in debugging and enhancing test automation frameworks and developing comprehensive API test suites. Previously, I worked with Jalasoft as a Software Quality Automation Engineer, where I utilized my Java expertise and expanded my knowledge of test automation techniques. I also served as a Teaching Assistant at FCYT, guiding students through complex concepts and contributing to the creation of challenging projects. I am passionate about continuous learning and improvement, which drives my involvement in various projects and roles.",
+    "I have worked as a Software Quality Automation Engineer at Jalasoft, where I developed test automation frameworks, wrote test scripts in Java, and enhanced API testing. I collaborated with teams to ensure high software quality and expanded my knowledge in automation techniques. Additionally, I have worked as a Freelance Developer on Upwork, focusing on automation frameworks and API test suites, as well as gaining experience as a QA Functional Tester at TesterWork and a QA Accessibility Tester at uTest. Previously, I was a Teaching Assistant at FCYT, guiding students through complex concepts",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -695,11 +696,33 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "QA Functional Tester",
+          company: "TesterWork",
+          company_url: "https://testerwork.com/",
+          logo_path: "testerwork.png",
+          duration: "May 2024 - Present",
+          location: "Remote",
+          description:
+            "I reported and documented bugs to development teams for resolution, performed regression testing to ensure updates didn't break existing features, participated in exploratory testing to identify hidden issues, and evaluated usability, providing feedback to enhance the user experience..",
+          color: "#000000",
+        },
+        {
+          title: "QA Accesibility Tester",
+          company: "UTest",
+          company_url: "https://www.utest.com/",
+          logo_path: "utest.png",
+          duration: "January 2024 - May 2024",
+          location: "Remote",
+          description:
+            "I performed accessibility testing to ensure compliance with WCAG guidelines, tested compatibility with assistive technologies such as screen readers and keyboards, and identified and reported accessibility issues related to navigation and design.",
+          color: "#000000",
+        },
+        {
           title: "Freelance",
           company: "Upwork",
           company_url: "https://www.upwork.com/",
           logo_path: "upwork.png",
-          duration: "August 2023 - Present",
+          duration: "August 2023 - January 2024",
           location: "Remote",
           description:
             "I've been working with a diverse range of clients, leveraging my skills to ensure the quality and reliability of their software projects. My focus has been on debugging and enhancing test automation frameworks, as well as developing and implementing comprehensive API test suites.",
@@ -710,7 +733,7 @@ const experience = {
           company: "Jalasoft",
           company_url: "https://www.jalasoft.com/",
           logo_path: "jalasoft.png",
-          duration: "March 2023 - June 2023",
+          duration: "August 2022 - August 2023",
           location: "Remote",
           description:
             "I utilized my Java expertise while expanding my knowledge of test automation techniques by collaborating on real projects, gaining a comprehensive understanding of testing processes and methodologies, and enhancing my skills in Agile practices, framework creation, and quality assurance",
@@ -845,9 +868,9 @@ const experience = {
 
 // Projects Page
 const projectsHeader = {
-  title: "Projects",
+  title: "Personal Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects utilize a wide range of modern technology tools, with a focus on QA automation, manual testing, and backend development. My expertise also extends to mobile development with Flutter, where I have worked on building robust and efficient applications",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -870,7 +893,7 @@ const projects = {
     },
     {
       id: "cloud-based-web-app",
-      name: "Smart Job Search on LinkedIn with AI",
+      name: "LinkedIn Jobs Profile Matcher",
       createdAt: "2022-11-25T00:00:00Z",
       description:
         "Automating tailored job searches on LinkedIn's job platform, utilizing AI to match users with the best-suited opportunities.",
