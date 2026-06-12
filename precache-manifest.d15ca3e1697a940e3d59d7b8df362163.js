@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12cbf4df1d9e6c68e8396717dc4be34c",
+    "revision": "07c40d912ae06ea2e864614490c26cb4",
     "url": "/QAPortfolio/index.html"
   },
   {
-    "revision": "70dabc9c04e95030282c",
+    "revision": "cdfa506ab3a6236e56b6",
     "url": "/QAPortfolio/static/css/main.1788f124.chunk.css"
   },
   {
-    "revision": "9f03eeb406cb851d0716",
-    "url": "/QAPortfolio/static/js/2.99b691f7.chunk.js"
+    "revision": "eed43787f3e0757e88ac",
+    "url": "/QAPortfolio/static/js/2.7fdd638d.chunk.js"
   },
   {
-    "revision": "70dabc9c04e95030282c",
-    "url": "/QAPortfolio/static/js/main.7f0f34a5.chunk.js"
+    "revision": "cdfa506ab3a6236e56b6",
+    "url": "/QAPortfolio/static/js/main.366257e7.chunk.js"
   },
   {
     "revision": "2c738511514401002f13",
@@ -262,6 +262,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
     "url": "/QAPortfolio/static/media/legato_logo.c597fbde.png"
+  },
+  {
+    "revision": "2c02b526df714ae0fa6b2689888c4336",
+    "url": "/QAPortfolio/static/media/linkedin.2c02b526.png"
   },
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",

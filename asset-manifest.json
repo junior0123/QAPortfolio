@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/QAPortfolio/static/css/main.1788f124.chunk.css",
-    "main.js": "/QAPortfolio/static/js/main.7f0f34a5.chunk.js",
-    "main.js.map": "/QAPortfolio/static/js/main.7f0f34a5.chunk.js.map",
+    "main.js": "/QAPortfolio/static/js/main.366257e7.chunk.js",
+    "main.js.map": "/QAPortfolio/static/js/main.366257e7.chunk.js.map",
     "runtime-main.js": "/QAPortfolio/static/js/runtime-main.81c626dd.js",
     "runtime-main.js.map": "/QAPortfolio/static/js/runtime-main.81c626dd.js.map",
-    "static/js/2.99b691f7.chunk.js": "/QAPortfolio/static/js/2.99b691f7.chunk.js",
-    "static/js/2.99b691f7.chunk.js.map": "/QAPortfolio/static/js/2.99b691f7.chunk.js.map",
+    "static/js/2.7fdd638d.chunk.js": "/QAPortfolio/static/js/2.7fdd638d.chunk.js",
+    "static/js/2.7fdd638d.chunk.js.map": "/QAPortfolio/static/js/2.7fdd638d.chunk.js.map",
     "index.html": "/QAPortfolio/index.html",
-    "precache-manifest.352c3e6e56a65c8543bbb2070c6bd2cd.js": "/QAPortfolio/precache-manifest.352c3e6e56a65c8543bbb2070c6bd2cd.js",
+    "precache-manifest.d15ca3e1697a940e3d59d7b8df362163.js": "/QAPortfolio/precache-manifest.d15ca3e1697a940e3d59d7b8df362163.js",
     "service-worker.js": "/QAPortfolio/service-worker.js",
     "static/css/main.1788f124.chunk.css.map": "/QAPortfolio/static/css/main.1788f124.chunk.css.map",
     "static/media/1.jpg": "/QAPortfolio/static/media/1.5d9aa6b0.jpg",
@@ -51,6 +51,7 @@
     "static/media/javaprogramming.png": "/QAPortfolio/static/media/javaprogramming.c1060d76.png",
     "static/media/jsFramework.svg": "/QAPortfolio/static/media/jsFramework.5b4a6449.svg",
     "static/media/legato_logo.png": "/QAPortfolio/static/media/legato_logo.c597fbde.png",
+    "static/media/linkedin.png": "/QAPortfolio/static/media/linkedin.2c02b526.png",
     "static/media/manOnTable.svg": "/QAPortfolio/static/media/manOnTable.83ac24fb.svg",
     "static/media/muffito_logo.png": "/QAPortfolio/static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "/QAPortfolio/static/media/nptel_logo.95a12a2b.png",
@@ -75,8 +76,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.81c626dd.js",
-    "static/js/2.99b691f7.chunk.js",
+    "static/js/2.7fdd638d.chunk.js",
     "static/css/main.1788f124.chunk.css",
-    "static/js/main.7f0f34a5.chunk.js"
+    "static/js/main.366257e7.chunk.js"
   ]
 }
