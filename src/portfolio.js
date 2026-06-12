@@ -25,7 +25,7 @@ const greeting = {
   logo_name: "Alvaro Sivila",
   //nickname: "layman_brother",
   subTitle:
-    "A passionate QA Manual and Automation Specialist 🚀 with experience in ensuring the highest quality for web and mobile applications. Adept at utilizing a variety of frameworks such as Selenium, Appium, Cypress, and Playwright to create robust automated test suites",
+    "SDET | QA Automation | QA Manual | AI Automation Engineer 🚀\nPassionate about ensuring the highest quality for web and mobile applications, leveraging modern AI tooling and robust automation frameworks like Selenium, Playwright, Cypress, and Appium.",
   resumeLink:
     "https://drive.google.com/file/d/1RS_P9LXNGUJy7NbF2XimWbb63ibUGaE-/view?usp=drive_link",
   portfolio_repository: "https://github.com/junior0123",
@@ -100,6 +100,22 @@ const socialMediaLinks = [
 
 const skills = {
   data: [
+    {
+      title: "AI Engineering & Automation",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ AI-Assisted Development, Prompt Engineering, AI Agents, Skills, Agentic Workflows",
+        "⚡ MCP (Model Context Protocol), Workflow Automation, LLM Orchestration, AI Tool Integration",
+        "⚡ AI-Augmented Coding, Autonomous Workflows, Rapid Prototyping with AI, RAG Systems, LangChain",
+        "⚡ Experience with LLMs: ChatGPT, Claude, Gemini, Qwen, DeepSeek, Kimi K2",
+        "⚡ AI Tooling: GitHub Copilot, Cursor, Claude Code, OpenCode, Windsurf, APIs",
+      ],
+      softwareSkills: [
+        { skillName: "Python", imageSrc: "python.svg" },
+        { skillName: "JavaScript", imageSrc: "javascript.svg" },
+        { skillName: "GitHub Copilot", imageSrc: "github.svg" },
+      ],
+    },
     {
       title: "QA Automation",
       fileName: "DataScienceImg",
@@ -695,6 +711,28 @@ const experience = {
       title: "Work",
       work: true,
       experiences: [
+        {
+          title: "SDET",
+          company: "NiCE",
+          company_url: "",
+          logo_path: "nice.png",
+          duration: "September 2025 - Present",
+          location: "Hybrid - Cochabamba - Bolivia",
+          description:
+            "Automated backend validation processes for distributed systems and cloud-based services. Performed API testing, backend data validation, and workflow verification across multiple services. Worked with AWS cloud environments, leveraging AWS CloudWatch for production troubleshooting, metric monitoring, and extensive log review to isolate and resolve backend mismatches. Contributed to MCP-based integrations and AI-assisted engineering workflows. Leveraged AI development tools to accelerate debugging and implementation tasks.",
+          color: "#0879bf",
+        },
+        {
+          title: "QA Manual Tester",
+          company: "Xiara Studios",
+          company_url: "",
+          logo_path: "xiarastudios.png",
+          duration: "January 2025 - June 2025",
+          location: "Remote - Bolivia",
+          description:
+            "Implemented all quality assurance processes from scratch. Designed and executed manual test strategies for functional, regression, and smoke testing. Reported and tracked bugs using issue tracking tools, ensuring clear communication with dev teams. Defined acceptance criteria and wrote test cases to validate product requirements.",
+          color: "#000000",
+        },
         {
           title: "QA Functional Tester",
           company: "TesterWork",
