@@ -117,7 +117,7 @@ const skills = {
       ],
     },
     {
-      title: "QA Automation",
+      title: "SDET & QA Automation",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Expertise in automation frameworks such as Selenium, Appium, Cypress, and Playwright to streamline and enhance testing processes",
@@ -425,6 +425,211 @@ const degrees = {
 const certifications = {
   certifications: [
     {
+      title: "No-Code Generative AI for Business Professionals",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Evaluating and Debugging Generative AI",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title:
+        "Building Custom GPTs for Work: Create AI Assistants in Plain Language with ChatGPT (No Code Required)",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title:
+        "Claude Cowork 7-Day Challenge: Find Practical AI Use Cases That Deliver",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title:
+        "Prompt Engineering: Aprende a hablar con una inteligencia artificial generativa",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Model Context Protocol: Advanced Topics by Anthropic",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Context Engineering for Developers",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Claude Code 101: From Prompt to Product",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Agentic AI: Build Your First Agentic AI System",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Building Intelligent AI Agents by Pearson",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Model Context Protocol (MCP): Hands-On with Agentic AI",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Mastering Model Context Protocol (MCP)",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title:
+        "Hands-On AI: Building Agents with the Google Agent Development Toolkit (ADK)",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Build with AI: SQL AI Agents in Production",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Local AI: Build a RAG Model from Scratch with Open-Source Tools",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title:
+        "AI for Software Testers: Apply AI Tools and Techniques to the Software Testing Life Cycle",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Building Software Test Plans Using AI",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title:
+        "Software Testing Foundations: Integrating AI into the Quality Process",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title:
+        "AI-Powered Software Development: Coding, Testing, and System Design",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Build AI Agents with n8n",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Level up LLM applications development with LangChain and OpenAI",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
+      title: "Vibe Code This: AI-Powered Branded Infographics Tool",
+      subtitle: "LinkedIn",
+      logo_path: "linkedin.png",
+      certificate_link:
+        "https://www.linkedin.com/in/alvaro-sivila-ram%C3%ADrez-0a8537113/details/certifications/",
+      alt_name: "LinkedIn",
+      color_code: "#ffffff",
+    },
+    {
       title: "Scrum Fundamentals Certified (SFC)",
       subtitle: "SCRUMstudy - Accreditation Body for Scrum and Agile",
       logo_path: "preview.png",
@@ -726,7 +931,7 @@ const experience = {
           title: "QA Manual Tester",
           company: "Xiara Studios",
           company_url: "",
-          logo_path: "xiarastudios.png",
+          logo_path: "xiara.png",
           duration: "January 2025 - June 2025",
           location: "Remote - Bolivia",
           description:
@@ -920,6 +1125,16 @@ const publicationsHeader = {
 const projects = {
   data: [
     {
+      id: "newsletter-job-hunter",
+      name: "Newsletter: Job Opportunity Hunter with AI",
+      createdAt: "2024-05-01T00:00:00Z",
+      description:
+        "Tu próximo empleo, más cerca. Mi tecnología filtra y te entrega una lista semanal con las mejores vacantes tech.",
+      image: "./skills/newsletter.png",
+      link:
+        "https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7326643717589671936",
+    },
+    {
       id: "data-science-dashboard",
       name: "Job Search Automation with AI in Linkedin",
       createdAt: "2023-05-14T00:00:00Z",
@@ -996,11 +1211,12 @@ const contactPageData = {
       "I am available on almost every social media. You can message me, and I will reply within 24 hours. I can help you with automation testing, manual testing, and backend development with Java.",
   },
   blogSection: {
-    title: "Blogs",
+    title: "Newsletter",
     subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "avatar.png",
+      "Job Opportunity Hunter with AI. Tu próximo empleo, más cerca. Mi tecnología filtra y te entrega una lista semanal con las mejores vacantes tech.",
+    link:
+      "https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7326643717589671936",
+    avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
