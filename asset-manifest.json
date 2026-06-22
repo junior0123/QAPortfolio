@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/QAPortfolio/static/css/main.1788f124.chunk.css",
-    "main.js": "/QAPortfolio/static/js/main.366257e7.chunk.js",
-    "main.js.map": "/QAPortfolio/static/js/main.366257e7.chunk.js.map",
+    "main.js": "/QAPortfolio/static/js/main.a3500234.chunk.js",
+    "main.js.map": "/QAPortfolio/static/js/main.a3500234.chunk.js.map",
     "runtime-main.js": "/QAPortfolio/static/js/runtime-main.81c626dd.js",
     "runtime-main.js.map": "/QAPortfolio/static/js/runtime-main.81c626dd.js.map",
     "static/js/2.7fdd638d.chunk.js": "/QAPortfolio/static/js/2.7fdd638d.chunk.js",
     "static/js/2.7fdd638d.chunk.js.map": "/QAPortfolio/static/js/2.7fdd638d.chunk.js.map",
     "index.html": "/QAPortfolio/index.html",
-    "precache-manifest.d15ca3e1697a940e3d59d7b8df362163.js": "/QAPortfolio/precache-manifest.d15ca3e1697a940e3d59d7b8df362163.js",
+    "precache-manifest.9ea5f284d2058817dd1dbaa32a0da267.js": "/QAPortfolio/precache-manifest.9ea5f284d2058817dd1dbaa32a0da267.js",
     "service-worker.js": "/QAPortfolio/service-worker.js",
     "static/css/main.1788f124.chunk.css.map": "/QAPortfolio/static/css/main.1788f124.chunk.css.map",
     "static/media/1.jpg": "/QAPortfolio/static/media/1.5d9aa6b0.jpg",
@@ -78,6 +78,6 @@
     "static/js/runtime-main.81c626dd.js",
     "static/js/2.7fdd638d.chunk.js",
     "static/css/main.1788f124.chunk.css",
-    "static/js/main.366257e7.chunk.js"
+    "static/js/main.a3500234.chunk.js"
   ]
 }
