@@ -27,7 +27,7 @@ const greeting = {
   subTitle:
     "SDET | QA Automation | QA Manual | AI Automation Engineer 🚀\nPassionate about ensuring the highest quality for web and mobile applications, leveraging modern AI tooling and robust automation frameworks like Selenium, Playwright, Cypress, and Appium.",
   resumeLink:
-    "https://drive.google.com/file/d/1RS_P9LXNGUJy7NbF2XimWbb63ibUGaE-/view?usp=drive_link",
+    "https://drive.google.com/file/d/1bolSyxZ04cKp2HBXyE6jB_mdX-RPxIkF/view?usp=sharing",
   portfolio_repository: "https://github.com/junior0123",
   githubProfile: "https://github.com/junior0123",
 };
